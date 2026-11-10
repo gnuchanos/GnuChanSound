@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=GnuChanSound
+Comment=Select PipeWire audio devices and control volume
+Exec=/usr/local/bin/GnuChanSound
+Terminal=false
+Categories=AudioVideo;Audio;Settings;
+StartupNotify=true
